@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="submit">SUBMIT</string>
+    <string name="input_hint">Enter the amount</string>
+    <string name="input_start_value">1</string>
+    <string name="output_start_value">0.0</string>
+</resources>
